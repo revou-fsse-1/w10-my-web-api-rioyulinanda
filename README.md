@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/fjOilbth)
+# Groceries Shopping List App
+
+### The grocery shopping list app is designed to help people easily create, manage, and track their grocery shopping lists. The app allows users to create a new list, add items to the list, mark items as completed once they've been purchased, and edit or delete items as needed. In summary, the grocery shopping list app provides a convenient and easy-to-use way for users to create and manage their shopping lists, making grocery shopping faster and more efficient.
+
+## Documentation
+
+### Here is the documentation link
+
+## Pages
+
+- Register Page
+- Login Page
+- Mainpage
+
+## Screenshots
+
+![banner](./assets/sc-signup.jpg)
+![banner](./assets/sc-login.jpg)
+![banner](./assets/sc-mainpage.jpg)
