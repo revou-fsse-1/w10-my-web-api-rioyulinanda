@@ -24,7 +24,7 @@ button.addEventListener("click", function (e) {
       );
       if (user) {
         // User is authenticated, redirect to homepage
-        window.location.href = "/mainpage/index.html";
+        window.location.href = "/mainpage/mainpage.html";
       } else {
         // User is not authenticated, show error message
         const errorMessage = document.getElementById("errorMessage");
