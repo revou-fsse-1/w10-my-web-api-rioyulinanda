@@ -87,7 +87,7 @@ body {
   text-underline-offset: 5px;
 }
 
-.submit {
+#submit {
   padding: 1px 20px;
   border-radius: 10px;
   background-color: #455c6a;
