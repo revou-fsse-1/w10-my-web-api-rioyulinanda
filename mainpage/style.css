@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Changa&display=swap");
 
-@media only screen and (max-width: 385px) {
+/* For screens smaller than 375px */
+@media only screen and (max-width: 375px) {
   .container {
     width: 100%;
     padding: 5px;
