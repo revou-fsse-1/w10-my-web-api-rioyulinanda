@@ -1,5 +1,26 @@
 @import url("https://fonts.googleapis.com/css2?family=Changa&display=swap");
 
+/* For screens smaller than 385px */
+@media (max-width: 385px) {
+  .container {
+    width: 100%;
+  }
+
+  .header {
+    height: 150px;
+    border-radius: 0;
+  }
+
+  .content {
+    height: 250px;
+    max-height: 250px;
+  }
+
+  .form1 {
+    padding: 0 20px;
+  }
+}
+
 body {
   padding: 0;
   margin: 0;
